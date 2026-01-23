@@ -1,0 +1,25 @@
+body{
+    background-color: #bbb;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+body li{
+    height: 200px;
+    width: 200px;
+    text-align:center;
+    padding-top: 75px;
+    box-sizing: border-box;
+}
+
+.mango{
+    background: #eb7734;
+}
+
+.BBSmoothie{
+    background: #5f41c9;
+}
+
+.eggs{
+    background: white;
+}
